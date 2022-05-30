@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bookstore",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\tyagi\\Downloads\\bookstore-v2-master (1)\\bookstore-v2-master\\amplify\\backend\\api\\bookstore\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
